@@ -1,2 +1,2 @@
 # Python
-General Python scripts
+Python example code.
